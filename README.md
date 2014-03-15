@@ -29,11 +29,11 @@ We recommend this way to install the plugin into your project.
 1. Clone this project into your repository
 2. Run at the root of your project:  
 ```
-    cordova plugin add /path/to/your/cloned/plugin/AndroidInAppBilling/v3
+    cordova plugin add https://github.com/satiskSKY/AndroidInAppBilling.git
 ```  
 or  
 ```
-    phonegap local plugin add /path/to/your/cloned/plugin/AndroidInAppBilling/v3
+    phonegap local plugin add https://github.com/satiskSKY/AndroidInAppBilling.git
 ```
 
 ### Manually
